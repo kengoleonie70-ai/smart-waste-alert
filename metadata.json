@@ -1,0 +1,6 @@
+{
+  "name": "Dschang Smart Waste Alert",
+  "description": "Citizen-driven municipal waste reporting, live bin mapping, and sanitation operations platform for the Municipality of Dschang.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
